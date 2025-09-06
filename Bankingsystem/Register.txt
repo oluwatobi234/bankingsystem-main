@@ -1,0 +1,5 @@
+Name: Igbeayo BABALOLA
+Age: 30
+Gender: M
+Password: Igbeayo@2405
+Account Number: 1026830

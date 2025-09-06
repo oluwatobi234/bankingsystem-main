@@ -1,0 +1,5 @@
+Name: tobi
+Age: 20
+Gender: m
+Password: Tobi200!
+Account Number: 1030662

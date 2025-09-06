@@ -1,0 +1,9 @@
+Education:£20
+Food:£120
+Healthcare:£20
+Miscellaneous:£30
+Shopping:£20
+Travel:£20
+entertainment:£20
+rent:£500
+transport:£20

@@ -1,0 +1,192 @@
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:22:21 2025
+     Miscellaneous            20        130       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:34:38 2025
+     Food                     40        460       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:18 2025
+     rent                     40        420       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:20 2025
+     transport                50        370       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:22 2025
+     entertainment            30        340       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:23 2025
+     Shopping                 40        300       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:26 2025
+     Healthcare               50        250       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:29 2025
+     Education                20        230       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:31 2025
+     Travel                   50        180       
+Date                          Description              Amount    Balance   
+Wed Apr 23 03:35:39 2025
+     Miscellaneous            90        90        
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:50 2025
+     Food                                    20        480       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:51 2025
+     rent                                    40        440       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:52 2025
+     transport                               40        400       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:53 2025
+     entertainment                           40        360       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:54 2025
+     Shopping                                40        320       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:55 2025
+     Healthcare                              40        280       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:56 2025
+     Education                               40        240       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:57 2025
+     Travel                                  40        200       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:38:58 2025
+     Miscellaneous                           40        160       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:14 2025
+     Food                                    10        490       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:15 2025
+     rent                                    10        480       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:16 2025
+     transport                               10        470       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:17 2025
+     entertainment                           10        460       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:17 2025
+     Shopping                                10        450       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:18 2025
+     Healthcare                              10        440       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:18 2025
+     Education                               10        430       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:19 2025
+     Travel                                  10        420       
+Date                          Description                             Amount    Balance   
+Wed Apr 23 03:41:20 2025
+     Miscellaneous                           10        410       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:32 2025
+     Food                          50        350       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:33 2025
+     rent                          60        290       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:36 2025
+     transport                     50        240       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:38 2025
+     entertainment                 20        220       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:38 2025
+     Shopping                      30        190       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:40 2025
+     Healthcare                    40        150       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:42 2025
+     Education                     50        100       
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:07:46 2025
+     Travel                        50        50        
+Date                          Description                   Amount    Balance   
+Wed Apr 23 20:08:03 2025
+     Miscellaneous                 50        0         
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:29 2025
+     Food                          20        460       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:31 2025
+     rent                          50        410       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:33 2025
+     transport                     100       310       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:36 2025
+     entertainment                 30        280       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:38 2025
+     Shopping                      50        230       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:43 2025
+     Healthcare                    100       130       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:48 2025
+     Education                     100       30        
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:50 2025
+     Travel                        10        20        
+Date                          Description                   Amount    Balance   
+Fri Apr 25 14:52:59 2025
+     Miscellaneous                 20        0         
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:32:41 2025
+     Food                          100       380       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:32:56 2025
+     rent                          20        360       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:33:04 2025
+     transport                     60        300       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:33:08 2025
+     entertainment                 50        250       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:33:11 2025
+     Shopping                      50        200       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:33:13 2025
+     Healthcare                    100       100       
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:33:22 2025
+     Education                     80        20        
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:34:09 2025
+     Travel                        5         15        
+Date                          Description                   Amount    Balance   
+Fri Apr 25 15:34:18 2025
+     Miscellaneous                 15        0         
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:03:52 2025
+     Food                          120       680       
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:04:39 2025
+     rent                          500       180       
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:04:52 2025
+     transport                     20        160       
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:04:54 2025
+     entertainment                 20        140       
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:04:56 2025
+     Shopping                      20        120       
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:05:00 2025
+     Healthcare                    20        100       
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:05:03 2025
+     Education                     20        80        
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:05:08 2025
+     Travel                        20        60        
+Date                          Description                   Amount    Balance   
+Mon Apr 28 19:05:12 2025
+     Miscellaneous                 30        30        
