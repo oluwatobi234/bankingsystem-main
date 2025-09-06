@@ -26,10 +26,7 @@ Registration successful! Please log in.
 
 ## Screenshots
 
-![Login Screen](screenshots/login.jpg)
-![Account Menu](screenshots/account menu.jpg)
-![Allocating Money](screenshots/allocate.jpg)
-![Withdraw Money](screenshots/withdrawn.jpg)
+Screenshots of the program flow (login, account menu, allocating money, withdrawing) are saved in the "screenshot" folder. You can view them locally in this folder.
 
 
 
