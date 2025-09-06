@@ -1,7 +1,7 @@
 # Banking Management System for Students
 A console-based program for students to manage income, savings, and expenses.
 - Register and log in with password validation
-- Account number generation
+- Account number generation  
 - Deposit, save, and withdraw money
 - Allocate funds to categories like Food, Rent, Transport
 - View account information/bank statement
