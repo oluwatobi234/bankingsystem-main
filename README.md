@@ -23,6 +23,13 @@ Password is strong! Your account number is: 1011419
 Registration successful! Please log in.
 
 
-screenshot
+
+## Screenshots
+
+![Login Screen](screenshots/login.jpg)
+![Account Menu](screenshots/account menu.jpg)
+![Allocating Money](screenshots/allocate.jpg)
+![Withdraw Money](screenshots/withdrawn.jpg)
+
 
 
